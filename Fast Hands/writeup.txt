@@ -1,0 +1,3 @@
+open the source of the page with CTRL + U, then go in the subpage that is loaded, there's the flag:
+
+flag{80176cdf1547a9be54862df3568966b8}

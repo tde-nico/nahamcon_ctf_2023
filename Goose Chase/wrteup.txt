@@ -1,0 +1,3 @@
+create a copy of the document on google sheets, in the name will be flag
+
+flag{323264294cc2a4ebb2c8d5f9e0afb0f7}

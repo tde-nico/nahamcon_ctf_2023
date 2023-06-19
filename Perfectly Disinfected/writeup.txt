@@ -1,0 +1,3 @@
+open in chrome, the title is flag
+
+flag{b00acdc78749b378f8f4889f8243789304abe928}
