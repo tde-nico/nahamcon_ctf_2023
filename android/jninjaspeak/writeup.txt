@@ -1,0 +1,7 @@
+
+> strings jninjaspeak.apk | grep flag
+flag{1f539e4a706e6181dae9db3fad6a78f1}covariant return thunk to
+flag{1f539e4a706e6181dae9db3fad6a78f1}
+flag{1f539e4a706e6181dae9db3fad6a78f1}
+flag{1f539e4a706e6181dae9db3fad6a78f1}
+
